@@ -18,5 +18,8 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'dillon'
 }
 
-const favoriteCustomer = 'allen'
-favoriteCustomer = 'mike'
+var favoriteCustomer = 'mike'
+
+function attemptTwoFavoriteCustomers( {
+  favoriteCustomer = 'bill'
+})
