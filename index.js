@@ -22,4 +22,4 @@ var favoriteCustomer = 'mike'
 
 function attemptTwoFavoriteCustomers() {
   favoriteCustomer = 'bill'
-})
+}
