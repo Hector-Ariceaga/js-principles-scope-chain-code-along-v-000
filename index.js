@@ -19,4 +19,4 @@ function changeLeastFavoriteCustomer() {
 }
 
 const favoriteCustomer = 'allen'
-var favoriteCustomer = 'mike'
+favoriteCustomer = 'mike'
